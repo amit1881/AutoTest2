@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="57270" started-at="2015-10-12T04:48:37Z" finished-at="2015-10-12T04:49:35Z">
+    <groups>
+    </groups>
+    <test name="FirefoxTest" duration-ms="57270" started-at="2015-10-12T04:48:37Z" finished-at="2015-10-12T04:49:35Z">
+      <class name="TestNG.TestPOM1">
+        <test-method status="PASS" signature="POM()[pri:0, instance:TestNG.TestPOM1@1e94b0f]" name="POM" duration-ms="57235" started-at="2015-10-12T10:18:37Z" finished-at="2015-10-12T10:19:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- POM -->
+      </class> <!-- TestNG.TestPOM1 -->
+    </test> <!-- FirefoxTest -->
+  </suite> <!-- Suite -->
+</testng-results>
